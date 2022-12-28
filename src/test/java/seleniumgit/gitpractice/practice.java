@@ -8,6 +8,11 @@ public class practice {
 	{
 		System.out.println("hello");
 	}
+	@Test
+	public void getdata2()
+	{
+		System.out.println("hellohiiii");
+	}
 	
 
 }
