@@ -9,15 +9,9 @@ public class practice {
 		System.out.println("hellohiiii");
 		System.out.println("hello");
 	}
+	
 	@Test
-	public void getdata2()
-	{
-		System.out.println("hellohiiii");
-		System.out.println("hellohiiii");
-		
-	}
-	@Test
-	public void data2()
+	public void seleniumdata()
 	{
 		System.out.println("hellohiiii");
 		System.out.println("hellohiiii");
