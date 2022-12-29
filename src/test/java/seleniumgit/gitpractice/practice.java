@@ -12,6 +12,13 @@ public class practice {
 	public void getdata2()
 	{
 		System.out.println("hellohiiii");
+		
+	}
+	@Test
+	public void data2()
+	{
+		System.out.println("hellohiiii");
+		
 	}
 	
 
