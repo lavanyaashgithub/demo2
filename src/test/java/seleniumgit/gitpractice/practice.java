@@ -6,17 +6,20 @@ public class practice {
 	@Test
 	public void getdata()
 	{
+		System.out.println("hellohiiii");
 		System.out.println("hello");
 	}
 	@Test
 	public void getdata2()
 	{
 		System.out.println("hellohiiii");
+		System.out.println("hellohiiii");
 		
 	}
 	@Test
 	public void data2()
 	{
+		System.out.println("hellohiiii");
 		System.out.println("hellohiiii");
 		
 	}
